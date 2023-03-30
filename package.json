@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "A convenient function to create a custom-image-upload-adapter for ckeditor5",
     "main": "dist/index.js",
-    "types": "dist/index.d.js",
+    "types": "dist/index.d.ts",
     "scripts": {
         "test": "jest",
         "test:e2e": "jest --config=e2e/jest-e2e.json",
