@@ -1,6 +1,6 @@
 {
     "name": "ckeditor5-custom-image-upload-adapter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A convenient function to create a custom-image-upload-adapter for ckeditor5",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
