@@ -1,0 +1,12 @@
+# dependencies
+**/node_modules
+
+# tests
+coverage
+e2e/src
+
+# dist
+dist
+
+# misc
+.eslintcache
