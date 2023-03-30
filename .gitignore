@@ -3,7 +3,7 @@
 
 # tests
 coverage
-e2e/src
+e2e/src/index.js
 
 # dist
 dist

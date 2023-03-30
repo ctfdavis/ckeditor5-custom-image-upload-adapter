@@ -1,0 +1,4 @@
+# tests
+test/*.ts
+e2e/**/*.ts
+e2e/**/*.js

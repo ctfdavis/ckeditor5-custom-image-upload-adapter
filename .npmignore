@@ -1,0 +1,12 @@
+# source
+src/
+test/
+e2e/
+ckeditor5/
+tsconfig.json
+jest.config.js
+.*
+
+# misc
+LICENSE
+README.md
